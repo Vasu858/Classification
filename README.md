@@ -28,7 +28,7 @@ All categorical input features were transformed using One-Hot Encoding. The data
 The preprocessing steps were incorporated into the machine learning pipelines to prevent data leakage. The held-out test dataset was exported as `test_data.csv` for evaluation through the Streamlit application.
 
 ## c. GitHub Repository Link
-[View Mushroom Classification GitHub Repository](https://github.com/kovvururajesh7/mushroom-classification)
+[View Mushroom Classification GitHub Repository](https://github.com/Vasu858/Classification)
 
 
 **Files in the repository:**
